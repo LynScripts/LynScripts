@@ -1,0 +1,6 @@
+- Hej Lynskjold Her!
+- Inden du bruger mit script skal du lige læse denne besked.
+- Inde i Client.lua kan du ændre dit Server navn 
+- Vær venlig ikke at udgive dette script derfor er der nemlig Copyrigt på
+- 
+- Dette Script er lavet af LynScript©
